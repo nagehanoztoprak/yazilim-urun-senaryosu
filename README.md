@@ -1,1 +1,1 @@
-# yazilim-urun-senaryosu
+Ekip arkadaşlarımla beraber yaptığımız bu projede bir yazılım ürün senaryosu gerçekleştirdik. FISHOUT ismini verdiğimiz bir mobil uygulama için süreç tasarımını yaptık. Gereksinimleri belirleyip analiz ettik. Aktörleri belirtip user stories oluşturduk ve senaryolar yazdık. Use case tanımlamaları ve şemaları ile senaryoları tanımladık. Storyboard ve wireframe hazırladık. Benim bu projede görevlerimden biri, dokümantasyonda rol almamın yanında wireframe hazırlamak, ödeve ek olarak UI tasarlamak, storyboard hazırlamak oldu. 
